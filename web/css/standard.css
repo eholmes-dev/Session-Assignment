@@ -1,0 +1,45 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Feb 24, 2020, 6:55:46 PM
+    Author     : ethan
+*/
+
+body{
+    width: 90%;
+    max-width: 960px;
+    margin: auto;
+    background-color: lightblue;
+}
+
+header nav {
+    display: block;
+    width: 95%;
+    text-align: right;
+    padding-left: 1em;
+    padding-right: 1em;
+}
+
+
+
+h1{
+    font-style: italic;
+}
+
+section{
+    min-height: 400px;
+    background-color: lightyellow;
+    padding: 1em;
+}
+
+input[type=text]{
+    background-color: whitesmoke;
+}
+
+input[type=password]{
+    background-color: whitesmoke;
+}
+
